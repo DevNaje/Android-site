@@ -24,11 +24,6 @@ body {
     font-family: var(--font-padrão);
 }
 
-.ytbvideo {
-    margin: auto;
-    width: auto;
-}
-
 :root {
     --cor0:#c5ebd6;
     --cor1:#0FC2C0;
@@ -89,7 +84,7 @@ main {
     background-color: white;
     margin-bottom: 20px;
     max-width: 800px;
-    min-width: 400px;
+    min-width: 320px;
     margin: auto;
     border-radius: 0px 0px 20px 20px;
     text-align: left;
