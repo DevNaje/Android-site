@@ -22,7 +22,7 @@ body {
     margin: auto;
     text-align: center;
     font-family: var(--font-padrão);
-    min-width: 400px;
+    min-width: 320px;
 }
 
 :root {
